@@ -1,4 +1,4 @@
-(https://travis-ci.org/patelrikin/travisci-test.svg?branch=master)
+![Build Status](https://travis-ci.org/patelrikin/travisci-test.svg?branch=master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
