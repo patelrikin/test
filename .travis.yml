@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "node"
+  - "iojs"
+  - "7"
+
+cache: yarn
+before_install:
+install:
+script:
+    - yarn build
